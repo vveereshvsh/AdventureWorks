@@ -4,7 +4,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <Name>AdventureWorks</Name>
-    <SchemaVersion>2.0</SchemaVersion>
+    <SqlChangeAutomationSchemaVersion>1.3.1</SqlChangeAutomationSchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{5e1d1156-360c-4a72-9a3e-dae09a5fa451}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
